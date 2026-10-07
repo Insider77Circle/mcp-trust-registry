@@ -14,6 +14,8 @@ a server:
 
 ## The trust model
 
+![How trust works](docs/trust-model.png)
+
 ```
 publisher ──submits──▶  listing { name, summary, source URL,
                                   schema_hash, source_commit }
